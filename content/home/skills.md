@@ -23,7 +23,7 @@ feature:
 - 
   icon: users
   icon_pack: fas
-  name: Qualitative Research
+  name: Mixed Methods
 - 
   icon: highlighter
   icon_pack: fas
