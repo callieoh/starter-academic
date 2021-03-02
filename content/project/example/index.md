@@ -6,11 +6,11 @@ tags:
 date: "2020-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://case.edu/swetland/research/ohio-covid-19-child-care-study"
+external_link: ""
 
 
 
-url_code: ""
+url_code: "https://case.edu/swetland/research/ohio-covid-19-child-care-study"
 url_pdf: ""
 url_slides: ""
 url_video: ""
