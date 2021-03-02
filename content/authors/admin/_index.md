@@ -54,12 +54,6 @@ social:
   icon_pack: ai
   link: 
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cmo74@case.edu"
@@ -70,4 +64,3 @@ highlight_name: false
 
 I am a first year PhD student in Epidemiology & Biostatistics in the Department of Quantitative Health Sciences at Case Western Reserve University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
