@@ -19,7 +19,7 @@ bio: My research interests include food systems, social determinants of health, 
 # Interests to show in About widget
 interests:
 - Food systems
-- Obesity epidemic
+- Community health
 - Health disparities
 - Social determinants of health
 
@@ -62,5 +62,7 @@ email: "cmo74@case.edu"
 highlight_name: false
 ---
 
-I am a first year PhD student in Epidemiology & Biostatistics in the Department of Quantitative Health Sciences at Case Western Reserve University. I am broadly interested in community health and health equity research. More specifically, I research the intersection of food systems, social inequities, and food choices.
+I am a first year PhD student in Epidemiology & Biostatistics in the Department of Quantitative Health Sciences at Case Western Reserve University. I am broadly interested in community health and health equity research. More specifically, I aim to research the intersection of food systems, social inequities, and food choices, and I am curious about social media's role within food systems.
+
+When I'm not studying or conducting research, I enjoy spending time in the sun hiking, backpacking, and swimming. 
 
