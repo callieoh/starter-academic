@@ -34,8 +34,8 @@
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/media/files/cv.pdf` and uncomment the lines below.
  [[main]]
    name = "Download CV"
-   url = "media/resume.pdf"
+   url = "static/media/cv.pdf"
    weight = 70
