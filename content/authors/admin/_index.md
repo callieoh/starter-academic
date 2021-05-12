@@ -62,5 +62,5 @@ email: "cmo74@case.edu"
 highlight_name: false
 ---
 
-I am a first year PhD student in Epidemiology & Biostatistics in the Department of Quantitative Health Sciences at Case Western Reserve University. 
+I am a first year PhD student in Epidemiology & Biostatistics in the Department of Quantitative Health Sciences at Case Western Reserve University. I am broadly interested in community health and health equity research. More specifically, I am investigating the intersection of food systems, social inequities, and food choices.
 
